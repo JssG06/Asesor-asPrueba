@@ -1,0 +1,418 @@
+[
+  {
+    "id": "sch_026",
+    "owner_name": "Sebastián Martínez Galicia",
+    "email": "imartinezg006@alumno.uaemex.mx",
+    "type": "mentoria",
+    "day": "2026-04-12",
+    "start": "14:30",
+    "end": "18:00",
+    "subjects": [
+      "Cálculo I"
+    ],
+    "place": "Sala 2"
+  },
+  {
+    "id": "sch_101",
+    "owner_name": "Alejandro Hernández Arriaga",
+    "email": "ahernandez@profesor.uaemex.mx",
+    "type": "asesoria",
+    "day": "2026-03-16",
+    "start": "09:00",
+    "end": "11:00",
+    "subjects": [
+      "Seguridad De La Información"
+    ],
+    "place": "LAB-RED"
+  },
+  {
+    "id": "sch_102",
+    "owner_name": "Carol Leyva Peláez",
+    "email": "cleyva@profesor.uaemex.mx",
+    "type": "asesoria",
+    "day": "2026-03-18",
+    "start": "11:00",
+    "end": "13:00",
+    "subjects": [
+      "Bases De Datos I"
+    ],
+    "place": "Sala De Cómputo 2"
+  },
+  {
+    "id": "sch_103",
+    "owner_name": "Elfego Gutiérrez Ocampo",
+    "email": "egutierrez@profesor.uaemex.mx",
+    "type": "asesoria",
+    "day": "2026-03-20",
+    "start": "07:00",
+    "end": "09:00",
+    "subjects": [
+      "Programación I"
+    ],
+    "place": "Sala De Cómputo 1"
+  },
+  {
+    "id": "sch_104",
+    "owner_name": "Guadalupe Rodríguez Camacho",
+    "email": "grodriguez@profesor.uaemex.mx",
+    "type": "asesoria",
+    "day": "2026-04-02",
+    "start": "09:00",
+    "end": "11:00",
+    "subjects": [
+      "Arquitectura De Computadoras"
+    ],
+    "place": "Sala 5"
+  },
+  {
+    "id": "sch_105",
+    "owner_name": "Héctor Torres Aguilar",
+    "email": "htorres@profesor.uaemex.mx",
+    "type": "asesoria",
+    "day": "2026-04-10",
+    "start": "10:00",
+    "end": "12:00",
+    "subjects": [
+      "Sistemas Operativos"
+    ],
+    "place": "Sala De Cómputo 3"
+  },
+  {
+    "id": "sch_106",
+    "owner_name": "José Antonio Hernández Servín",
+    "email": "jhernandez@profesor.uaemex.mx",
+    "type": "asesoria",
+    "day": "2026-04-22",
+    "start": "11:00",
+    "end": "13:00",
+    "subjects": [
+      "Graficación Computacional"
+    ],
+    "place": "LAB-IHM"
+  },
+  {
+    "id": "sch_107",
+    "owner_name": "Luis Enrique Ledezma Fuentes",
+    "email": "lledezma@profesor.uaemex.mx",
+    "type": "asesoria",
+    "day": "2026-05-05",
+    "start": "16:30",
+    "end": "18:30",
+    "subjects": [
+      "Inteligencia Artificial"
+    ],
+    "place": "Sala 7"
+  },
+  {
+    "id": "sch_108",
+    "owner_name": "Marcelo Romero Huertas",
+    "email": "mromero@profesor.uaemex.mx",
+    "type": "asesoria",
+    "day": "2026-05-19",
+    "start": "15:00",
+    "end": "17:00",
+    "subjects": [
+      "Métodos Estadísticos"
+    ],
+    "place": "C-303"
+  },
+  {
+    "id": "sch_109",
+    "owner_name": "Marco Antonio Ramos Corchado",
+    "email": "mramos@profesor.uaemex.mx",
+    "type": "asesoria",
+    "day": "2026-06-03",
+    "start": "11:00",
+    "end": "13:00",
+    "subjects": [
+      "Inteligencia Artificial"
+    ],
+    "place": "C-404"
+  },
+  {
+    "id": "sch_110",
+    "owner_name": "Mónica Marina Mondragón Ixtlahuac",
+    "email": "mmondragon@profesor.uaemex.mx",
+    "type": "asesoria",
+    "day": "2026-06-15",
+    "start": "11:00",
+    "end": "13:00",
+    "subjects": [
+      "Investigación De Operaciones"
+    ],
+    "place": "C-406"
+  },
+  {
+    "id": "sch_111",
+    "owner_name": "Natalia Cecilia Munguía Cedillo",
+    "email": "nmunguia@profesor.uaemex.mx",
+    "type": "mentoria",
+    "day": "2026-07-02",
+    "start": "13:00",
+    "end": "15:00",
+    "subjects": [
+      "Comunicación Y Relaciones Humanas"
+    ],
+    "place": "C-303"
+  },
+  {
+    "id": "sch_112",
+    "owner_name": "Pablo Salas Castillo",
+    "email": "psalas@profesor.uaemex.mx",
+    "type": "asesoria",
+    "day": "2026-08-18",
+    "start": "09:00",
+    "end": "11:00",
+    "subjects": [
+      "Bases De Datos II"
+    ],
+    "place": "LAB-PARALELO"
+  },
+  {
+    "id": "sch_113",
+    "owner_name": "Rosenda Ivett Vilchis Torres",
+    "email": "rvilchis@profesor.uaemex.mx",
+    "type": "mentoria",
+    "day": "2026-09-10",
+    "start": "11:00",
+    "end": "13:00",
+    "subjects": [
+      "Administración De Proyectos Informáticos"
+    ],
+    "place": "C-402"
+  },
+  {
+    "id": "sch_114",
+    "owner_name": "Silvia Edith Albarrán Trujillo",
+    "email": "salbarran@profesor.uaemex.mx",
+    "type": "asesoria",
+    "day": "2026-10-06",
+    "start": "09:00",
+    "end": "11:00",
+    "subjects": [
+      "Ingeniería De Software I"
+    ],
+    "place": "LAB-PARALELO"
+  },
+  {
+    "id": "sch_115",
+    "owner_name": "Víctor Manuel Montaño Serrano",
+    "email": "vmontano@profesor.uaemex.mx",
+    "type": "asesoria",
+    "day": "2026-11-12",
+    "start": "07:00",
+    "end": "09:00",
+    "subjects": [
+      "Robótica"
+    ],
+    "place": "LAB-ROBOTICA"
+  },
+  {
+    "id": "sch_116",
+    "owner_name": "Vianney Muñoz Jiménez",
+    "email": "vmunoz@profesor.uaemex.mx",
+    "type": "asesoria",
+    "day": "2026-12-03",
+    "start": "09:00",
+    "end": "11:00",
+    "subjects": [
+      "Procesamiento De Imágenes Digitales"
+    ],
+    "place": "C-404"
+  },
+  {
+    "id": "sch_201",
+    "owner_name": "Alejandro Ortiz Pérez",
+    "email": "aortiz@profesor.uaemex.mx",
+    "type": "asesoria",
+    "day": "2026-03-17",
+    "start": "09:00",
+    "end": "11:00",
+    "subjects": [
+      "Álgebra Lineal"
+    ],
+    "place": "SALON-PROPE-1"
+  },
+  {
+    "id": "sch_202",
+    "owner_name": "Ana Elisa Alcántara Valladolid",
+    "email": "aalcantara@profesor.uaemex.mx",
+    "type": "mentoria",
+    "day": "2026-03-19",
+    "start": "11:00",
+    "end": "13:00",
+    "subjects": [
+      "Comunicación Oral y Escrita"
+    ],
+    "place": "SALON-PROPE-2"
+  },
+  {
+    "id": "sch_203",
+    "owner_name": "Andrea Robles Cruz",
+    "email": "arobles@profesor.uaemex.mx",
+    "type": "asesoria",
+    "day": "2026-03-23",
+    "start": "08:00",
+    "end": "10:00",
+    "subjects": [
+      "Trigonometría"
+    ],
+    "place": "SALON-PROPE-3"
+  },
+  {
+    "id": "sch_204",
+    "owner_name": "Andrés Cancín Victoriano",
+    "email": "acancin@profesor.uaemex.mx",
+    "type": "asesoria",
+    "day": "2026-04-07",
+    "start": "10:00",
+    "end": "12:00",
+    "subjects": [
+      "Geometría Analítica"
+    ],
+    "place": "SALON-PROPE-4"
+  },
+  {
+    "id": "sch_205",
+    "owner_name": "Araceli Consuelo Campero Carmona",
+    "email": "acampero@profesor.uaemex.mx",
+    "type": "mentoria",
+    "day": "2026-04-15",
+    "start": "12:00",
+    "end": "14:00",
+    "subjects": [
+      "Expresión Oral y Escrita"
+    ],
+    "place": "SALON-PROPE-5"
+  },
+  {
+    "id": "sch_206",
+    "owner_name": "Armando Herrera Barrera",
+    "email": "aherrera@profesor.uaemex.mx",
+    "type": "asesoria",
+    "day": "2026-05-06",
+    "start": "07:00",
+    "end": "09:00",
+    "subjects": [
+      "Cálculo I"
+    ],
+    "place": "SALON-PROPE-6"
+  },
+  {
+    "id": "sch_207",
+    "owner_name": "Augusto Eduardo Netzahualpilli Coyoli Lazcano",
+    "email": "anetza@profesor.uaemex.mx",
+    "type": "asesoria",
+    "day": "2026-05-21",
+    "start": "09:00",
+    "end": "11:00",
+    "subjects": [
+      "Cálculo II"
+    ],
+    "place": "SALON-PROPE-7"
+  },
+  {
+    "id": "sch_208",
+    "owner_name": "Aurora Diana Guzmán Coria",
+    "email": "aguzman@profesor.uaemex.mx",
+    "type": "mentoria",
+    "day": "2026-06-04",
+    "start": "13:00",
+    "end": "15:00",
+    "subjects": [
+      "Metodología de la Investigación"
+    ],
+    "place": "SALON-PROPE-2"
+  },
+  {
+    "id": "sch_209",
+    "owner_name": "Bernardo Juárez González",
+    "email": "bjuarez@profesor.uaemex.mx",
+    "type": "asesoria",
+    "day": "2026-06-18",
+    "start": "10:00",
+    "end": "12:00",
+    "subjects": [
+      "Probabilidad y Estadística"
+    ],
+    "place": "SALON-PROPE-8"
+  },
+  {
+    "id": "sch_210",
+    "owner_name": "Brenda Pichardo Lewestein",
+    "email": "bpichardo@profesor.uaemex.mx",
+    "type": "asesoria",
+    "day": "2026-07-09",
+    "start": "11:00",
+    "end": "13:00",
+    "subjects": [
+      "Química General"
+    ],
+    "place": "LAB-QUIMICA"
+  },
+  {
+    "id": "sch_211",
+    "owner_name": "Carlos Alberto González García",
+    "email": "cgonzalez@profesor.uaemex.mx",
+    "type": "asesoria",
+    "day": "2026-08-12",
+    "start": "08:00",
+    "end": "10:00",
+    "subjects": [
+      "Programación Básica"
+    ],
+    "place": "SALA-COMPUTO-1"
+  },
+  {
+    "id": "sch_212",
+    "owner_name": "Carlos Daniel Vargas Hernández",
+    "email": "cvargas@profesor.uaemex.mx",
+    "type": "mentoria",
+    "day": "2026-09-03",
+    "start": "12:00",
+    "end": "14:00",
+    "subjects": [
+      "Introducción a la Ingeniería"
+    ],
+    "place": "SALON-PROPE-3"
+  },
+  {
+    "id": "sch_213",
+    "owner_name": "Carlos Eduardo Díaz Martínez",
+    "email": "cdiaz@profesor.uaemex.mx",
+    "type": "asesoria",
+    "day": "2026-10-14",
+    "start": "09:00",
+    "end": "11:00",
+    "subjects": [
+      "Ecuaciones Diferenciales"
+    ],
+    "place": "SALON-PROPE-4"
+  },
+  {
+    "id": "sch_214",
+    "owner_name": "Carmen Patricia Hernández López",
+    "email": "chernandez@profesor.uaemex.mx",
+    "type": "tutoria",
+    "day": "2026-11-05",
+    "start": "11:00",
+    "end": "13:00",
+    "subjects": [
+      "Epistemología"
+    ],
+    "place": "SALON-PROPE-5"
+  },
+  {
+    "id": "sch_215",
+    "owner_name": "César Augusto Flores Torres",
+    "email": "cflores@profesor.uaemex.mx",
+    "type": "tutoria",
+    "day": "2026-12-10",
+    "start": "08:00",
+    "end": "10:00",
+    "subjects": [
+      "Estática"
+    ],
+    "place": "SALON-PROPE-6"
+  }
+]
